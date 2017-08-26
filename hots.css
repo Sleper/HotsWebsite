@@ -1,0 +1,26 @@
+
+.champ_portrait{
+	width: 62px;
+	height: 62px;
+	margin-top:50px;
+}
+
+.navbar-inverse {
+	background: #000046;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+body {
+	background: #070000;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #070000, #4C0001, #070000);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #070000, #4C0001, #070000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
