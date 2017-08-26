@@ -7,8 +7,8 @@
 
 .navbar-inverse {
 	background: #000046;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: -webkit-linear-gradient(to top, #0082c8, #0082c8);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #0082c8, #0082c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .navbar-inverse .navbar-brand {
@@ -21,6 +21,6 @@
 
 body {
 	background: #070000;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #000046, #1CB5E0);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #000046, #1CB5E0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: -webkit-linear-gradient(to left, #D3CCE3, #E9E4F0);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #D3CCE3, #E9E4F0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
