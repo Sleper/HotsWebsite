@@ -27,3 +27,11 @@ body {
 li:hover {
   background: #519ACC;
 }
+
+#logo {
+	width: 40px;
+	height: 40px;
+	margin-right: 10px;
+	margin-top: 3%;
+    display:inline-block;
+}
