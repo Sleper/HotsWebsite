@@ -35,3 +35,8 @@ li:hover {
 	margin-top: 3%;
     display:inline-block;
 }
+
+.navbar-inverse .navbar-nav > .active > a {
+	color: #fff;
+    background-color: #3385ff;
+}
